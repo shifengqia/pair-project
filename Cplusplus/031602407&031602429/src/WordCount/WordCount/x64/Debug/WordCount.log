@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\administrator\desktop\031602407\src\wordcount\wordcount\main.cpp(74): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\desktop\031602407\src\wordcount\wordcount\main.cpp(161): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  WordCount.vcxproj -> C:\Users\Administrator\Desktop\031602407\src\WordCount\x64\Debug\WordCount.exe
